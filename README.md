@@ -1,3 +1,7 @@
+## origin 
+
+https://github.com/xiaoluoboding/vue-demo-collection.git
+
 # Vue.js Demo Collection
 A collection of Vue.js demos
 
